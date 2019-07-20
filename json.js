@@ -1,1 +1,1 @@
-{"icon":"/v1/getFile?path=/upload/clientfile/20171128163738907.png","isforce":true,"description":"hello world;","name":"ÎÒµÄapp","md5":"f4f01ef4921b719d7f599d64104df5c5","path":"/buer/blob/master/app.apk","rt":1,"version":"2.0.0","vcode":2}
+{"icon":"/v1/getFile?path=/upload/clientfile/20171128163738907.png","isforce":true,"description":"hello world;","name":"mine_app","md5":"f4f01ef4921b719d7f599d64104df5c5","path":"/buer/blob/master/app.apk","rt":1,"version":"2.0.0","vcode":2}
